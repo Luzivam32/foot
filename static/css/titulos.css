@@ -38,6 +38,10 @@ tr, th, td{
     text-align: center;
 
 }
+img {
+    width: 75px;
+    height: 60px;
+}
 .button {
     background-color:green;
     border: 2px solid green;
