@@ -7,6 +7,7 @@ Body{
     margin: 2px;
     padding: 2px;
     border:2px;
+    font-family: 'Times New Roman', Times, serif;
 }
 header{
     margin: 2px;
@@ -23,6 +24,22 @@ section{
     padding: 2px;
     border: 2px;
 }
+.button {
+    background-color:#0000ff;
+    border: 2px solid #0000ff;
+    color:white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    transition-duration:0.4s;
+}
+.button:hover {
+    background-color:white;
+    color: black;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
 footer{
     margin: 2px;
     padding: 2px;
@@ -31,4 +48,5 @@ footer{
     border-bottom-right-radius:8px;
     background: blue;
     color: white;
+    text-align: center;
 }
