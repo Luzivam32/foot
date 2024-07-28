@@ -4,6 +4,7 @@
     border:0;
 }
 Body{
+    background-image: url(../imagem/imagem1.jpg);
     margin: 2px;
     padding: 2px;
     border:2px;
@@ -28,6 +29,8 @@ table {
     margin: 2px;
     padding: 2px;
     border: 2px solid green;
+    background-color: white;
+    color: black;
     border-radius: 8px;
     font-size: 24px;
 }

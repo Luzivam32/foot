@@ -4,6 +4,7 @@
     border:0;
 }
 Body{
+    
     margin: 2px;
     padding: 2px;
     border:2px;
@@ -29,6 +30,10 @@ section{
 .box {
     display: block;
 
+}
+img {
+    width: 2000px;
+    height: 1200px;
 }
 .button {
     background-color:#0000ff;

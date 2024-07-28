@@ -4,6 +4,7 @@
     border:0;
 }
 Body{
+    background-image: url(../imagem/imagem1.jpeg);
     margin: 2px;
     padding: 2px;
     border:2px;
